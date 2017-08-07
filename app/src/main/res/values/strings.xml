@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TestGuideProject</string>
+
+    <string name="vo2_max">
+<![CDATA[
+      <h4> <strong> 1.最大摄氧量</strong></h4>
+<h6>1.1 这是什么？</h6>
+   &nbsp;&nbsp;&nbsp;&nbsp 最大摄氧量（VO2max）已被世界认可，是反映人体运动能力的重要指标。
+最大摄氧量相对个人化，不同性别和年龄段会有不同的评测标准。手表会根据你的个人信息来评价你的运动等级。
+<h6>1.2如何采集？</h6>
+   &nbsp;&nbsp;&nbsp;&nbsp 进行20分钟以上的运动（目前仅支持有GPS的户外跑运动），产生有效的心率值产生并到达一定速度，是手表计算你运动能力的必要条件。
+  ]]>
+    </string>
+
+
+    <string name="first_beat_help_te">
+<![CDATA[
+    <h4>2.运动效果TE</h4>
+<h6>2.1 这是什么？</h6>
+   &nbsp;&nbsp;&nbsp;&nbsp; 运动效果TE（以下简称为TE）是可以将运动完美量化的一个指标，会客观的评价这次训练是轻松还是辛苦。数值越高代表训练越辛苦，身体承受的压力越大，但也代表着这次的运动效果越好。
+<h6>2.2 如何使用？</h6>
+    &nbsp;&nbsp;&nbsp;&nbsp;TE会值根据你的个人信息、心率和运动强度来评测你每次的运动效果，它可以评估任何能检测到心率的运动。
+    &nbsp;&nbsp;&nbsp;&nbsp;较低的TE值不代表你的运动出现了问题，仅用说明本次运动的强度（比如你进行了一个1小时的慢跑，TE值还是会很低）。我们会在运动结束后呈现TE值及提供相关评价或建议，在跑步运动中也提供了实时TE供有需要的跑者调整自己的运动状态。
+  ]]>
+    </string>
+
+
+
+    <string name="first_beat_help_train_load">
+<![CDATA[
+<h4>3.运动负荷</h4>
+    &nbsp;&nbsp;&nbsp;&nbsp; 手表会根据你过去7天的运动（目前仅支持有GPS的户外跑运动）情况来计算出相应的运动负荷分数，以便评估你的运动量。你可以通过运动负荷对应的区间建议来调整自己的运动安排。
+  ]]>
+    </string>
+
+
+
+
+</resources>
